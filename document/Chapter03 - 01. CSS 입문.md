@@ -27,3 +27,20 @@ div {
 ```html
 <div style="color: red;">태그</div>
 ```
+
+#### 내장 방식
+
+> HTML의 <style></style> 안에 포함하는 방식
+
+```html
+<head>
+    <style>
+        div {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div>태그</div>
+</body>
+```
