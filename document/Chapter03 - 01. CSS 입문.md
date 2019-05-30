@@ -46,3 +46,27 @@ div {
     <div>태그</div>
 </body>
 ```
+
+#### 외부 CSS 파일 참조 방식
+
+> CSS만 작성 한 별도의 CSS 파일을 HTML 파일에 불러와서 사용 하는 방식
+
+```html
+- ooo.html
+
+<head>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <div>태그</div>
+    <div>태그</div>
+</body>
+```
+
+```css
+- /css/main.css
+
+div {
+    color: red;
+}
+```
