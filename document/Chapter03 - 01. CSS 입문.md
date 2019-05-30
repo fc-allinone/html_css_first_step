@@ -26,6 +26,7 @@ div {
 
 ```html
 <div style="color: red;">태그</div>
+<div style="color: red;">태그</div>
 ```
 
 #### 내장 방식
@@ -41,6 +42,7 @@ div {
     </style>
 </head>
 <body>
+    <div>태그</div>
     <div>태그</div>
 </body>
 ```
