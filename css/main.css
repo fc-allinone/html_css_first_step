@@ -9,7 +9,7 @@
 }
 
 .container-left {
-
+    
 }
 
 .logo {
@@ -27,5 +27,5 @@
 
 .menu-item {
     float: left;
-    margin-right: 10px;
+    padding: 8px 10px;
 }
