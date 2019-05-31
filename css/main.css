@@ -1,3 +1,25 @@
-div {
-    color: red;
+.header {
+    background-color: yellowgreen;
+}
+
+.container {
+    background-color: tomato;
+    width: 980px;
+    margin: auto;
+}
+
+.container-left {
+
+}
+
+.logo {
+
+}
+
+.menu {
+
+}
+
+.menu-item {
+    float: left;
 }
