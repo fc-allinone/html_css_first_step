@@ -1,15 +1,15 @@
 .header {
-    background-color: yellowgreen;
+    background-color: white;
+    border-bottom: 1px solid lightgray;
 }
 
 .container {
-    background-color: tomato;
     width: 980px;
     margin: auto;
 }
 
 .container-left {
-    
+    padding: 20px 0px;
 }
 
 .logo {
