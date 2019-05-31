@@ -13,13 +13,19 @@
 }
 
 .logo {
+    float: left;
+    margin-right: 5px;
+}
 
+.logo img {
+    display: block;
 }
 
 .menu {
-
+    float: left;
 }
 
 .menu-item {
     float: left;
+    margin-right: 10px;
 }
